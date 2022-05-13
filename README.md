@@ -12,10 +12,17 @@
 
 **Tecnologías y herramientas**
 
-![image](https://user-images.githubusercontent.com/97395621/168167774-47826790-54ad-4137-9741-938544e5b24f.png)
-![image](https://user-images.githubusercontent.com/97395621/168168195-016c716c-9fd8-43ef-9f88-5497fb21675c.png)
-![image](https://user-images.githubusercontent.com/97395621/168170700-398bff2d-45d3-4d47-949d-f0892a1a7b88.png)
-![image](https://user-images.githubusercontent.com/97395621/168171158-aa576c50-e431-46a7-b0d2-a27db6b514d2.png)
+![image](https://user-images.githubusercontent.com/97395621/168217818-622ac177-549d-4f52-811f-949c1a07d9c5.png)
+![image](https://user-images.githubusercontent.com/97395621/168217841-35c5ff6f-1f0c-4ad9-bdbd-cce8e0fa2f7a.png)
+![image](https://user-images.githubusercontent.com/97395621/168217862-6f29fc02-0816-42a3-a0e9-34e62ae2a458.png)
+![image](https://user-images.githubusercontent.com/97395621/168217880-7bb928d7-2bf8-4a04-a7ae-519aacebd190.png)
+![image](https://user-images.githubusercontent.com/97395621/168217890-16e08d6c-c7ea-4b4d-b6f1-fa9c79f0c23c.png)
+
+
+
+
+
+
 
 
 
