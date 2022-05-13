@@ -4,6 +4,9 @@
 - 💞️ Estoy interesada en colaborar en proyectos de data analysis, datascience y machine learning. Me encataría poder contribuir en proyectos de organizaciones sin ánimo de lucro
 - 📫 Puedes contactarme en [LinkdIn](https://www.linkedin.com/in/lauracuestacontroldenegocioreportingtesoreriaproveedores)
 
+
+--
+
       
 
 
