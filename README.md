@@ -3,11 +3,11 @@
 - 🌱 Actualemnte estoy cursando un Bootcamp de data science...
 - 💞️ Estoy interesada en colaborar en proyectos de data analysis, datascience y machine learning. Me encataría poder contribuir en proyectos de organizaciones sin ánimo de lucro
 - 📫 Puedes contactarme en [LinkdIn](https://www.linkedin.com/in/lauracuestacontroldenegocioreportingtesoreriaproveedores)
-- 🔧 Technologies & Tools
+
       
 
 
-##Tecnologías y herramientas
+**Tecnologías y herramientas
 
 ![image](https://user-images.githubusercontent.com/97395621/168167774-47826790-54ad-4137-9741-938544e5b24f.png)
 ![image](https://user-images.githubusercontent.com/97395621/168168195-016c716c-9fd8-43ef-9f88-5497fb21675c.png)
