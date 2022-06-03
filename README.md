@@ -1,8 +1,8 @@
 - 👋 Hola!!, soy Laura Cuesta
 - 👀 Estoy interesada en data analysis, data science y machine learning.
-- 🌱 Actualemnte estoy cursando un Bootcamp de data science...
+- 🌱 Acabo de graduarme en un Bootcamp de Data Science en The Bridge Talent Accelerator...
 - 💞️ Estoy interesada en colaborar en proyectos de data analysis, datascience y machine learning. Me encataría poder contribuir en proyectos de organizaciones sin ánimo de lucro
-- 📫 Puedes contactarme en [LinkdIn](https://www.linkedin.com/in/lauracuestacontroldenegocioreportingtesoreriaproveedores)
+- 📫 Puedes contactarme en [LinkdIn](https://www.linkedin.com/in/lauracuestamena)
 
 
 ----
